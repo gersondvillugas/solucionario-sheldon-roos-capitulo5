@@ -19,3 +19,4 @@ n<-1:k
 xx<-cumsum(x)/n
 plot(n,xx,main = "E[X]",type = "l")
 xx[length(n)]
+  
